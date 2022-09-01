@@ -1,1 +1,1 @@
-BASE PROJECT STRUCTURE
+# RESTful API for Gestour Web App
